@@ -1,0 +1,6 @@
+Model,Mean Accuracy,Params
+Logistic Regression,0.6794293239683934,"{'classifier__C': 10, 'classifier__penalty': 'l2', 'classifier__solver': 'liblinear'}"
+SVM,0.9026075504828798,"{'classifier__C': 10, 'classifier__gamma': 'scale', 'classifier__kernel': 'rbf'}"
+Random Forest,0.8569095697980684,"{'classifier__max_depth': 20, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 100}"
+Gradient Boosting,0.8486391571553995,"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 5, 'classifier__n_estimators': 200}"
+KNN,0.9151448639157155,"{'classifier__algorithm': 'auto', 'classifier__n_neighbors': 3, 'classifier__weights': 'distance'}"
