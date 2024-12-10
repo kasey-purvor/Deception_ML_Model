@@ -3,7 +3,6 @@
 # 1 | Author
 
 **Kasey Purvor**
-**200851709**
 
 # 2 | Problem Formulation
 
