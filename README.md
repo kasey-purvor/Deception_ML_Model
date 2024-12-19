@@ -1,6 +1,6 @@
 # Classification of Personal Story Audio Data As True or False
 
-[See Full Report](report.md)
+[See Full Report](report/report.md)
 
 ## Project Overview
 
