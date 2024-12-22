@@ -10,7 +10,7 @@ The project explored and compared different machine learning models, feature ext
 
 ## Dataset
 
-The project utilises the MLEnd Deception Dataset. The dataset was split into training and testing sets (80/20) before feature extraction to prevent data leakage. Audio recordings were divided into non-overlapping 30-second segments.
+The project utilises the MLEnd Deception Dataset, **to which I was a contributer!**. The dataset was split into training and testing sets (80/20) before feature extraction to prevent data leakage. Audio recordings were divided into non-overlapping 30-second segments.
 
 To ensure the IID (Independent and Identically Distributed) assumption:
 
